@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./App.css"; // Stil dosyasını ekliyoruz
+import "./App.css"; 
 
 function TodoApp() {
   const [todos, setTodos] = useState([]);
